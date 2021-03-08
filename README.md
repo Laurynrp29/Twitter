@@ -25,3 +25,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/yeNhRlPgRQZ0cAl4pS/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+### Shows logging out feature
+<img src='https://media.giphy.com/media/igeDLZCRl7xr2kaDYy/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
